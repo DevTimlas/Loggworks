@@ -6,3 +6,4 @@ pydantic
 loguru
 python-dotenv
 gradio
+huggingface_hub
