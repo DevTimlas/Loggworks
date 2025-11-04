@@ -1,0 +1,101 @@
+Job_ID,Client_Name,Job_Type,Status,Assigned_Technician,Scheduled_Date,Scheduled_Time,Completion_Percentage,Completed_Date,Notes
+4567,Acme Corp,Repair,Active,Alice Johnson,04/06/2025,10:00,40,,Downtown repair in progress
+4589,John Doe,Plumbing,Active,Sarah Lee,04/06/2025,14:00,10,,Reassigned from Tom to Sarah
+4590,Beta LLC,Installation,Active,Tom Harris,04/06/2025,9:00,60,,Warehouse installation ongoing
+4591,Gamma Co.,Inspection,Active,Mike Thompson,04/06/2025,13:00,20,,Awaiting client confirmation
+4592,Delta Inc.,HVAC,Active,Aaron Patel,04/06/2025,15:00,0,,Job started today
+4593,Sunrise Corp,Plumbing,Upcoming,,10/06/2025,14:00,0,,Pending technician assignment
+4594,Jane Smith,Window Cleaning,Upcoming,Emily Chen,23/06/2025,10:00,0,,Rescheduled from May 20
+4595,Alpha Ltd,Consultation,Upcoming,Karen Patel,24/06/2025,11:00,0,,Client requested morning slot
+4596,Beta LLC,Installation,Upcoming,Tom Harris,24/06/2025,10:00,0,,Confirmed with client
+4597,Gamma Co.,Repair,Upcoming,Mike Thompson,24/06/2025,13:00,0,,Parts ordered
+88,Green Gardens,Lawn Care,Recurring,Sam Brown,06/06/2025,9:00,0,,Weekly on Fridays
+89,Blue Pools,Pool Cleaning,Recurring,Emily Chen,09/06/2025,10:00,0,,Bi-weekly on Mondays
+90,Tech Corp,Systems Check,Recurring,Karen Patel,01/07/2025,8:00,0,,Monthly on 1st
+91,Sky Realty,Cleaning,Recurring,Alice Johnson,10/06/2025,10:00,0,,Weekly on Tuesdays
+92,Star Hotels,Maintenance,Recurring,Aaron Patel,12/06/2025,14:00,0,,Bi-weekly on Thursdays
+4620,Warehouse Inc,Installation,Past,,30/05/2025,,100,30/05/2025,Completed client review requested
+4621,Sunrise Corp,Plumbing,Past,Karen Patel,10/05/2025,,100,10/05/2025,5/5 client rating
+4622,Acme Corp,Repair,Past,Tom Harris,15/05/2025,,100,15/05/2025,Pending client review
+4623,Beta LLC,HVAC,Past,Mike Thompson,20/05/2025,,100,20/05/2025,Client feedback collected
+4624,Delta Inc,Inspection,Past,Alice Johnson,25/05/2025,,100,25/05/2025,No review submitted
+4625,John Doe,Plumbing,Active,Sarah Lee,05/06/2025,9:00,0,,New job assigned
+4626,Jane Smith,Cleaning,Upcoming,Emily Chen,11/06/2025,11:00,0,,Client requested early slot
+4627,Gamma Co.,Repair,Active,Tom Harris,05/06/2025,13:00,30,,Awaiting parts delivery
+4628,Alpha Ltd,Maintenance,Recurring,Karen Patel,13/06/2025,10:00,0,,Monthly on 2nd Friday
+4629,Sunrise Corp,Consultation,Past,Aaron Patel,28/05/2025,,100,28/05/2025,Positive client feedback
+4630,Tech Corp,Installation,Upcoming,Mike Thompson,12/06/2025,14:00,0,,Scheduled with client
+4631,Green Gardens,Lawn Care,Recurring,Sam Brown,13/06/2025,9:00,0,,Weekly on Fridays
+4632,Blue Pools,Pool Cleaning,Recurring,Emily Chen,16/06/2025,10:00,0,,Bi-weekly on Mondays
+4633,Star Hotels,Maintenance,Recurring,Aaron Patel,19/06/2025,14:00,0,,Bi-weekly on Thursdays
+4634,Acme Corp,HVAC,Active,Alice Johnson,05/06/2025,15:00,10,,Job started today
+4635,Beta LLC,Repair,Upcoming,Tom Harris,15/06/2025,10:00,0,,Confirmed with client
+4636,Delta Inc,Inspection,Past,Karen Patel,31/05/2025,,100,31/05/2025,Client review pending
+4637,Sky Realty,Cleaning,Recurring,Alice Johnson,17/06/2025,10:00,0,,Weekly on Tuesdays
+4638,John Doe,Plumbing,Past,Sarah Lee,29/05/2025,,100,29/05/2025,4/5 client rating
+4639,Jane Smith,Window Cleaning,Upcoming,Emily Chen,18/06/2025,11:00,0,,Rescheduled from earlier date
+4640,Gamma Co.,Repair,Past,Mike Thompson,27/05/2025,,100,27/05/2025,No review submitted
+4641,Alpha Ltd,Consultation,Upcoming,Karen Patel,20/06/2025,9:00,0,,Client requested morning
+4642,Sunrise Corp,Installation,Active,Aaron Patel,06/06/2025,10:00,20,,In progress
+4643,Tech Corp,Systems Check,Recurring,Karen Patel,01/07/2025,8:00,0,,Monthly on 1st
+4644,Green Gardens,Lawn Care,Recurring,Sam Brown,20/06/2025,9:00,0,,Weekly on Fridays
+4645,Blue Pools,Pool Cleaning,Recurring,Emily Chen,23/06/2025,10:00,0,,Bi-weekly on Mondays
+4646,Star Hotels,Maintenance,Recurring,Aaron Patel,26/06/2025,14:00,0,,Bi-weekly on Thursdays
+4647,Acme Corp,Repair,Past,Tom Harris,26/05/2025,,100,26/05/2025,Client review requested
+4648,Beta LLC,HVAC,Upcoming,Mike Thompson,19/06/2025,13:00,0,,Parts ordered
+4649,Delta Inc,Inspection,Active,Alice Johnson,06/06/2025,11:00,0,,Awaiting client confirmation
+4650,Sky Realty,Cleaning,Recurring,Alice Johnson,24/06/2025,10:00,0,,Weekly on Tuesdays
+4651,John Doe,Plumbing,Upcoming,Sarah Lee,22/06/2025,14:00,0,,Scheduled with client
+4652,Jane Smith,Cleaning,Past,Emily Chen,30/05/2025,,100,30/05/2025,5/5 client rating
+4653,Gamma Co.,Repair,Active,Tom Harris,06/06/2025,13:00,50,,Halfway through repair
+4654,Tech Corp,Installation,Past,Aaron Patel,25/05/2025,,100,25/05/2025,Client review pending
+4655,Sunrise Corp,HVAC,Upcoming,Mike Thompson,25/06/2025,10:00,0,,Scheduled with client
+4656,Alpha Ltd,Repair,Active,Sarah Lee,07/06/2025,9:00,25,,Awaiting parts
+4657,Beta LLC,Plumbing,Recurring,Emily Chen,11/06/2025,11:00,0,,Bi-weekly on Wednesdays
+4658,Delta Inc,Maintenance,PFAC,Active,Alice Johnson,07/06/2025,14:00,30,Ongoing maintenance
+4659,Green Gardens,Lawn Care,Recurring,Sam Brown,27/06/2025,9:00,0,,Weekly on Fridays
+4660,Blue Pools,Pool Cleaning,Recurring,Emily Chen,30/06/2025,10:00,0,,Bi-weekly on Mondays
+4661,Star Hotels,Maintenance,Recurring,Aaron Patel,03/07/2025,14:00,0,,Bi-weekly on Thursdays
+4662,Acme Corp,Consultation,Past,Karen Patel,24/05/2025,,100,24/05/2025,No review submitted
+4663,Sky Realty,Cleaning,Recurring,Alice Johnson,01/07/2025,10:00,0,,Weekly on Tuesdays
+4664,John Doe,Plumbing,Active,Sarah Lee,08/06/2025,13:00,15,,New job assigned
+4665,Jane Smith,Window Cleaning,Upcoming,Emily Chen,26/06/2025,11:00,0,,Client requested afternoon
+4666,Gamma Co.,Repair,Past,Tom Harris,23/05/2025,,100,23/05/2025,4/5 client rating
+4667,Alpha Ltd,Inspection,Active,Mike Thompson,08/06/2025,10:00,0,,Awaiting client confirmation
+4668,Sunrise Corp,Installation,Upcoming,Aaron Patel,27/06/2025,14:00,0,,Scheduled with client
+4669,Tech Corp,Systems Check,Recurring,Karen Patel,01/08/2025,8:00,0,,Monthly on 1st
+4670,Green Gardens,Lawn Care,Recurring,Sam Brown,04/07/2025,9:00,0,,Weekly on Fridays
+4671,Blue Pools,Pool Cleaning,Past,Emily Chen,31/05/2025,,100,31/05/2025,Client review requested
+4672,Star Hotels,Maintenance,Recurring,Aaron Patel,10/07/2025,14:00,0,,Bi-weekly on Thursdays
+4673,Acme Corp,HVAC,Past,Alice Johnson,22/05/2025,,100,22/05/2025,5/5 client rating
+4674,Beta LLC,Repair,Active,Tom Harris,09/06/2025,13:00,45,,In progress
+4675,Delta Inc,Inspection,Upcoming,Mike Thompson,28/06/2025,10:00,0,,Confirmed with client
+4676,Sky Realty,Cleaning,Past,Alice Johnson,29/05/2025,,100,29/05/2025,No review submitted
+4677,John Doe,Plumbing,Recurring,Sarah Lee,15/06/2025,14:00,0,,Bi-weekly on Sundays
+4678,Jane Smith,Cleaning,Active,Emily Chen,09/06/2025,11:00,20,,Ongoing cleaning
+4679,Gamma Co.,Repair,Upcoming,Karen Patel,29/06/2025,13:00,0,,Parts ordered
+4680,Alpha Ltd,Consultation,Past,Aaron Patel,21/05/2025,,100,21/05/2025,Positive client feedback
+4681,Sunrise Corp,HVAC,Active,Mike Thompson,10/06/2025,10:00,35,,In progress
+4682,Tech Corp,Installation,Recurring,Tom Harris,18/06/2025,9:00,0,,Monthly on 3rd Wednesday
+4683,Green Gardens,Lawn Care,Past,Sam Brown,30/05/2025,,100,30/05/2025,4/5 client rating
+4684,Blue Pools,Pool Cleaning,Upcoming,Emily Chen,07/07/2025,10:00,0,,Bi-weekly on Mondays
+4685,Star Hotels,Maintenance,Past,Aaron Patel,28/05/2025,,100,28/05/2025,Client review pending
+4686,Acme Corp,Repair,Active,Alice Johnson,10/06/2025,14:00,50,,Halfway through repair
+4687,Beta LLC,Plumbing,Upcoming,Sarah Lee,01/07/2025,11:00,0,,Scheduled with client
+4688,Delta Inc,Inspection,Recurring,Mike Thompson,22/06/2025,10:00,0,,Monthly on 4th Sunday
+4689,Sky Realty,Cleaning,Active,Alice Johnson,11/06/2025,10:00,25,,Ongoing cleaning
+4690,John Doe,Plumbing,Past,Tom Harris,27/05/2025,,100,27/05/2025,5/5 client rating
+4691,Jane Smith,Window Cleaning,Upcoming,Emily Chen,02/07/2025,11:00,0,,Rescheduled from earlier date
+4692,Gamma Co.,Repair,Active,Karen Patel,11/06/2025,13:00,30,,Awaiting parts delivery
+4693,Alpha Ltd,Consultation,Recurring,Aaron Patel,20/06/2025,9:00,0,,Monthly on 3rd Friday
+4694,Sunrise Corp,Installation,Past,Mike Thompson,26/05/2025,,100,26/05/2025,No review submitted
+4695,Tech Corp,HVAC,Upcoming,Tom Harris,03/07/2025,14:00,0,,Confirmed with client
+4696,Green Gardens,Lawn Care,Recurring,Sam Brown,11/07/2025,9:00,0,,Weekly on Fridays
+4697,Blue Pools,Pool Cleaning,Active,Emily Chen,12/06/2025,10:00,15,,Ongoing pool cleaning
+4698,Star Hotels,Maintenance,Upcoming,Aaron Patel,17/07/2025,14:00,0,,Bi-weekly on Thursdays
+4699,Acme Corp,Repair,Past,Alice Johnson,25/05/2025,,100,25/05/2025,Client review requested
+4700,Beta LLC,Plumbing,Active,Sarah Lee,12/06/2025,11:00,40,,In progress
+4701,John Doe,Plumbing,Upcoming,,2025-06-09,14:00,0,,
+4702,John Doe,Plumbing,Upcoming,,2025-06-09,14:00,0,,Scheduled with client
+4703,John Doe,Plumbing,Upcoming,,2025-06-09,14:00,0,,
+4704,,,Upcoming,,,,0,,Scheduled with client

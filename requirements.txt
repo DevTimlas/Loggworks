@@ -1,0 +1,8 @@
+pandas
+langchain-openai
+langchain-core
+langchain
+pydantic
+loguru
+python-dotenv
+gradio
