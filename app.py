@@ -378,4 +378,7 @@ gr.ChatInterface(
     examples=["schedule a plumbing job on 2025-06-10 at 14:00", "list all jobs with ongoing maintenance", "cancel job id 4589"],
     cache_examples=False,
     css="footer {visibility: hidden}",
-).launch()
+).launch(
+    server_name="0.0.0.0",
+    server_port=7860
+)
